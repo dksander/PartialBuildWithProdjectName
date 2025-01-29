@@ -1,8 +1,9 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
-    "incrementalBuilds": {
+  "incrementalBuilds": {
     "onPush": true,
     "mode": "modifiedApps"
-  }
+  },
+  "templateSha": "ba4fc723e4c024674baa6a53ef1777402cfbaab0"
 }
