@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+        "id": "204c8462-efb4-40ce-b406-824206eb189e",
+        "name": "Base App",
+        "publisher": "NAV-Vision",
+        "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
